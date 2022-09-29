@@ -13,5 +13,6 @@ I implemented random terrain generation, maze generation, and Dijkstra's pathfin
 Special thanks to Professor Mike Taylor, Professor David Kosbie, the best mentor Jerry Wang, and my friend Zara Mansoor.
 
 ## Video Demo
-I made this fancy video for project showcase: [Escape from CMU](https://www.youtube.com/watch?v=5MDm7-sJ0sQ&t=3s). Take a look!
+I made this short video for project showcase: [Escape from CMU](https://www.youtube.com/watch?v=5MDm7-sJ0sQ&t=3s). Take a look!
 
+[![](/img/readme.md)](https://www.youtube.com/watch?v=5MDm7-sJ0sQ&t=3s)
