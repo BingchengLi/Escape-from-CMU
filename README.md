@@ -1,5 +1,5 @@
 # Escape-from-CMU
-15-112 term project! 
+15-112 term project! Created in **Dec 2021**.
 ~~I really wanted to escape from this school back then~~
 
 Escape From CMU is a 2D single-player platforming video game that stimulates the process of escaping from Carnegie Mellon University. The game is written in `Python`.
