@@ -2,7 +2,7 @@
 15-112 term project! 
 ~~I really wanted to escape from this school back then~~
 
-Escape From CMU is a 2D single-player platforming video game that stimulates the process of escaping from Carnegie Mellon University, written in python. 
+Escape From CMU is a 2D single-player platforming video game that stimulates the process of escaping from Carnegie Mellon University. The game is written in `Python`.
 
 I implemented random terrain generation, maze generation, and Dijkstra's pathfinding algorithm -- ***first "big" project in my life***!
 
